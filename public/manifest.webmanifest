@@ -1,0 +1,20 @@
+{
+  "name": "简历造物所 · Resume Studio",
+  "short_name": "简历造物所",
+  "description": "本地优先、所见即所得的专业简历生成器",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e6e9e4",
+  "theme_color": "#193f39",
+  "icons": [
+    {
+      "src": "/resume-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
